@@ -1,0 +1,11 @@
+{
+  "name": "pruebatestcafe1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe firefox test/"
+  },
+  "author": "",
+  "license": "ISC"
+}
